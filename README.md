@@ -1,4 +1,4 @@
-### Ola! eu sou o Eduardo 👨‍💻
+### Olá! eu sou o Eduardo 👨‍💻
 
 <div align="center">
   <a href="https://github.com/EduardoOliveiraDev">
